@@ -67,6 +67,8 @@ public class MergeSort {
 		}
 	}
 
+	public void anhThanhLongBeDe() {};
+	
 	public static void show(int n, int[] a) {
 		for (int i = 0; i < n; ++i) {
 			System.out.print(a[i] + " ");
